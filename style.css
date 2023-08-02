@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+background: gray;
+width: 100%;
+}
+.main >img{
+    border-radius: 30px;
+}
+.pay{
+    background: white;
+    -webkit-box-shadow: 5px 3px 22px 13px #E4FFF2; 
+box-shadow: 5px 3px 22px 13px #E4FFF2;
+
+  width: 450px;
+  height: 650px;
+  padding: 20px;
+  border-radius: 30px;
+}
+.upi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.para{
+    display: flex;
+    justify-content: center;
+    font-family: 'Nunito Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.upi >img{
+    padding: 10px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+}
+.pau{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
